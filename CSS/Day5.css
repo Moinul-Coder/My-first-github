@@ -1,0 +1,20 @@
+body {
+    background-color: #813333;
+    font-family: Arial;
+    text-align: center;
+}
+header{
+    color:rgb(101, 101, 134);
+    font-size: 40px;
+    text-decoration: underline;
+}
+p{
+    color:dark gray;
+    font-size:18px;
+    line-height: 1.6;
+}
+img{
+    width:300px;
+   border-radius: 10px;
+   border: 5px solid black;
+}
